@@ -60,7 +60,7 @@ cd assistly-chatbot
 
 2. **Set up `.env`**
 
-Create a `.env` file in the root directory:
+Create a .env file in the root directory:
 
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
@@ -90,10 +90,10 @@ Then open your browser at `http://localhost:8501`
 3. Ask questions like:
    - "What are the main topics discussed?"
    - "Who are the speakers?"
-   - "Summarize the conversation"
+   - "Summarize the conversation."
 
 -----------------------------------------------------------------------------------------------------
 
 ## 📄 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Prathap
